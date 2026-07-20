@@ -1,0 +1,11 @@
+<ModMetaData>
+    <name>Clean Textures Background | VE Backgrounds</name>
+    <author>Kobe Riddle, Ren7z</author>
+    <packageId>KobeRiddle.CleanTexturesBackground</packageId>
+
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+    <description>Adds the Clean Textures background as a VE Backgrounds background, without replacing the vanilla Core background.</description>
+</ModMetaData>

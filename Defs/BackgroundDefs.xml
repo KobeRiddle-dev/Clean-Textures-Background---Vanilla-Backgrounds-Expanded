@@ -1,0 +1,10 @@
+<Defs>
+
+    <VBE.BackgroundImageDef MayRequire="VanillaExpanded.Backgrounds">
+        <defName>CleanTexturesBackground</defName>
+        <label>Clean Textures</label>
+        <description>A Muffalo at peace, courtesy of Ren7z.</description>
+        <path>Menu/BGCleanTextures</path>
+    </VBE.BackgroundImageDef>
+
+</Defs>
